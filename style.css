@@ -55,6 +55,10 @@ body {
     color: #F5CB5C;
     background-color: #242423;
 }
+.bg-color-dark
+{
+    background-color: #242423;
+}
 h1 {
     font-size: 400%;
 }
